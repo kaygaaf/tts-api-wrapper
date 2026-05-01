@@ -18,9 +18,9 @@ Al mijn werk is gratis beschikbaar. Als je het waardevol vindt, overweeg dan om 
 
 | Platform | Link | Type |
 |----------|------|------|
-| **GitHub Sponsors** | [github.com/sponsors/kaygaaf](https://github.com/sponsors/kaygaaf) | Maandelijks / Eenmalig |
+| **GitHub Sponsors** | [ko-fi.com/kayorama](https://ko-fi.com/kayorama) ☕ | Maandelijks / Eenmalig |
 | **Ko-fi** | [ko-fi.com/kayorama](https://ko-fi.com/kayorama) | Koffie ☕ |
-| **Buy Me a Coffee** | [buymeacoffee.com/kayorama](https://buymeacoffee.com/kayorama) | Koffie ☕ |
+| **Buy Me a Coffee** | [ko-fi.com/kayorama](https://ko-fi.com/kayorama) ☕ | Koffie ☕ |
 
 ---
 
