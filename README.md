@@ -38,3 +38,12 @@ This API is powered by [ElevenLabs](https://try.elevenlabs.io/6rf9nw0kbn9x) - th
 ## License
 
 MIT
+
+
+## ☕ Support mijn werk
+
+Al mijn projecten zijn gratis en open-source. Als je het waardevol vindt:
+
+**[☕ Ko-fi - Buy me a coffee](https://ko-fi.com/kayorama)**
+
+Je helpt mij om meer AI tools, apps en content te bouwen!
